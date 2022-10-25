@@ -9,6 +9,8 @@ League of Legends (abbreviated LoL) is a multiplayer online battle arena video g
 In our project, we predict win rate and duration of game in real time by some predictors in the game based on the dataset “(LoL) League of Legends Ranked Games”. And the techniques are classification and linear regression respectively. At the same time, we get our optimization model by different methods of fitting, forward stepwise selection, lasso etc.
 
 The poster of our project is shown as follows, and for more details, please see the file `Poster.pdf`.
+
+If you think this project is interesting, please start it. Thanks!
 <img src="poster.png" align=center width="80%">
 
 

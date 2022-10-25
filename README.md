@@ -10,7 +10,7 @@ In our project, we predict win rate and duration of game in real time by some pr
 
 The poster of our project is shown as follows, and for more details, please see the file `Poster.pdf`.
 
-If you think this project is interesting, please start it. Thanks!
+If you think this project is interesting, please star it. Thanks!
 <img src="poster.png" align=center width="80%">
 
 

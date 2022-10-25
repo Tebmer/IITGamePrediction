@@ -1,6 +1,6 @@
 # IITGamePrediction
 
-This is a repository for the project "Predicting the Win Rate and Duration of Game LOL in Real Time", which was done during summer research in Illinois Institute of Technology.
+This is a repository for the project **"Predicting the Win Rate and Duration of Game LOL in Real Time"**, which was done during summer research in Illinois Institute of Technology.
 
 ## Introduction 
 
